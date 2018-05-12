@@ -1,0 +1,32 @@
+_repo: Facundo_33267
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sarmiento, Domingo Faustino
+    aliases:
+    - Sarmiento, Domingo F. (Domingo Faustino)
+    - Sarmiento, D. F. (Domingo Faustino)
+    birthdate: 1811
+    deathdate: 1888
+    gutenberg_agent_id: '36297'
+    url: http://www.gutenberg.org/2009/agents/36297
+    wikipedia: http://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
+description: ''
+gutenberg_issued: '2010-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33267'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Description and travel'
+- !lcsh 'Argentina -- History -- 1817-1860'
+- !lcc 'F2801'
+- !lcsh 'Quiroga, Juan Facundo, 1790-1835'
+title: Facundo
+url: http://www.gutenberg.org/ebooks/33267
